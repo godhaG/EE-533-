@@ -1,0 +1,11 @@
+# Output products list for <new_mem>
+new_mem.asy
+new_mem.ngc
+new_mem.sym
+new_mem.v
+new_mem.veo
+new_mem.vhd
+new_mem.vho
+new_mem.xco
+new_mem_flist.txt
+new_mem_xmdf.tcl

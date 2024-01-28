@@ -1,0 +1,10 @@
+run 1000 ns
+run 1200 us
+stop -s
+run 1200 us
+stop -s
+run 12 us
+run 12 us
+run 12 us
+run 13 us
+run 20000 ns

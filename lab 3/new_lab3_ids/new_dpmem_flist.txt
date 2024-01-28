@@ -1,0 +1,11 @@
+# Output products list for <new_dpmem>
+new_dpmem.asy
+new_dpmem.ngc
+new_dpmem.sym
+new_dpmem.v
+new_dpmem.veo
+new_dpmem.vhd
+new_dpmem.vho
+new_dpmem.xco
+new_dpmem_flist.txt
+new_dpmem_xmdf.tcl
